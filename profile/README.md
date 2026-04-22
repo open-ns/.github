@@ -1,3 +1,4 @@
+<img src="./OpenNS.png" width="700">
 
 ## Get Involved
 
